@@ -1,0 +1,407 @@
+2018-04-27 09:03 +08:00: [0mGET / [32m200 [0m36.654 ms - 11181[0m
+2018-04-27 09:03 +08:00: [0mGET /css/font-awesome.min.css [32m200 [0m58.096 ms - 17780[0m
+2018-04-27 09:03 +08:00: [0mGET /css/style.css [32m200 [0m63.016 ms - 16711[0m
+2018-04-27 09:03 +08:00: [0mGET /css/bootstrap.min.css [32m200 [0m78.079 ms - 109518[0m
+2018-04-27 09:03 +08:00: [0mGET /css/camera.css [32m200 [0m82.494 ms - 27479[0m
+2018-04-27 09:03 +08:00: [0mGET /css/bootstrap-theme.css [32m200 [0m73.710 ms - 4909[0m
+2018-04-27 09:03 +08:00: [0mGET /js/modernizr-latest.js [32m200 [0m52.893 ms - 51324[0m
+2018-04-27 09:03 +08:00: [0mGET /js/jquery.mobile.customized.min.js [32m200 [0m17.503 ms - 17519[0m
+2018-04-27 09:03 +08:00: [0mGET /js/jquery.easing.1.3.js [32m200 [0m17.948 ms - 8097[0m
+2018-04-27 09:03 +08:00: [0mGET /js/fancybox/jquery.fancybox.pack.js [32m200 [0m35.491 ms - 23135[0m
+2018-04-27 09:03 +08:00: [0mGET /js/jquery.min.js [32m200 [0m44.394 ms - 93888[0m
+2018-04-27 09:03 +08:00: [0mGET /js/bootstrap.min.js [32m200 [0m61.632 ms - 27726[0m
+2018-04-27 09:03 +08:00: [0mGET /js/camera.min.js [32m200 [0m83.341 ms - 39398[0m
+2018-04-27 09:03 +08:00: [0mGET /images/logo.png [32m200 [0m72.983 ms - 22993[0m
+2018-04-27 09:03 +08:00: [0mGET /js/custom.js [32m200 [0m107.230 ms - 2196[0m
+2018-04-27 09:03 +08:00: [0mGET /images/news3.jpg [32m200 [0m119.553 ms - 72095[0m
+2018-04-27 09:03 +08:00: [0mGET /images/news2.jpg [32m200 [0m74.606 ms - 49010[0m
+2018-04-27 09:03 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m81.526 ms - 44432[0m
+2018-04-27 09:03 +08:00: [0mGET /images/bg.png [32m200 [0m67.682 ms - 17705[0m
+2018-04-27 09:03 +08:00: [0mGET /images/arrow.png [32m200 [0m72.580 ms - 14995[0m
+2018-04-27 09:03 +08:00: [0mGET /images/news4.jpg [32m200 [0m56.459 ms - 63405[0m
+2018-04-27 09:03 +08:00: [0mGET /images/patterns/overlay1.png [32m200 [0m16.285 ms - 5315[0m
+2018-04-27 09:03 +08:00: [0mGET /images/slides/img1.jpg?1524791030510 [32m200 [0m1.833 ms - 582150[0m
+2018-04-27 09:03 +08:00: [0mGET /images/camera-loader.gif [32m200 [0m45.066 ms - 9289[0m
+2018-04-27 09:03 +08:00: [0mGET /images/camera_skins.png [32m200 [0m48.393 ms - 24198[0m
+2018-04-27 09:03 +08:00: [0mGET /images/slides/img2.jpg?1524791030585 [32m200 [0m0.935 ms - 300990[0m
+2018-04-27 09:03 +08:00: [0mGET /favicon.ico [32m200 [0m12.564 ms - 5315[0m
+2018-04-27 09:04 +08:00: [0mGET / [36m304 [0m3.539 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m8.143 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m4.641 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/bootstrap-theme.css [36m304 [0m4.810 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/style.css [36m304 [0m5.400 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/camera.css [36m304 [0m6.764 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/modernizr-latest.js [36m304 [0m0.668 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.min.js [36m304 [0m0.606 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/fancybox/jquery.fancybox.pack.js [36m304 [0m0.644 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.mobile.customized.min.js [36m304 [0m0.693 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.easing.1.3.js [36m304 [0m0.504 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/camera.min.js [36m304 [0m0.580 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/bootstrap.min.js [36m304 [0m2.661 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/custom.js [36m304 [0m0.480 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/logo.png [36m304 [0m0.495 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news2.jpg [36m304 [0m0.467 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news3.jpg [36m304 [0m0.707 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news4.jpg [36m304 [0m0.419 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/bg.png [36m304 [0m0.871 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/arrow.png [36m304 [0m0.903 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m0.559 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/camera-loader.gif [36m304 [0m0.997 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/camera_skins.png [36m304 [0m1.097 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/patterns/overlay1.png [36m304 [0m4.688 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img1.jpg?1524791043090 [32m200 [0m0.677 ms - 582150[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img2.jpg?1524791043149 [32m200 [0m0.871 ms - 300990[0m
+2018-04-27 09:04 +08:00: [0mGET /favicon.ico [36m304 [0m3.724 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img3.jpg?1524791052993 [32m200 [0m1.153 ms - 385058[0m
+2018-04-27 09:04 +08:00: [0mGET / [36m304 [0m81.985 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m7.306 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m7.299 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/bootstrap-theme.css [36m304 [0m7.723 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/style.css [36m304 [0m9.060 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /css/camera.css [36m304 [0m8.926 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/modernizr-latest.js [36m304 [0m0.651 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.min.js [36m304 [0m0.647 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/fancybox/jquery.fancybox.pack.js [36m304 [0m0.630 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.mobile.customized.min.js [36m304 [0m0.684 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/jquery.easing.1.3.js [36m304 [0m0.572 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/camera.min.js [36m304 [0m0.617 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/bootstrap.min.js [36m304 [0m0.515 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /js/custom.js [36m304 [0m0.440 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/logo.png [36m304 [0m0.533 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news2.jpg [36m304 [0m0.512 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news3.jpg [36m304 [0m0.508 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/news4.jpg [36m304 [0m0.490 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/bg.png [36m304 [0m0.831 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/arrow.png [36m304 [0m0.832 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m0.557 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/camera-loader.gif [36m304 [0m0.919 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/camera_skins.png [36m304 [0m0.938 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/patterns/overlay1.png [36m304 [0m9.751 ms - -[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img1.jpg?1524791078007 [32m200 [0m3.984 ms - 582150[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img2.jpg?1524791078091 [32m200 [0m0.851 ms - 300990[0m
+2018-04-27 09:04 +08:00: [0mGET /favicon.ico [32m200 [0m4.371 ms - 5315[0m
+2018-04-27 09:04 +08:00: [0mGET /images/slides/img3.jpg?1524791088019 [32m200 [0m1.403 ms - 385058[0m
+2018-04-27 09:05 +08:00: [0mGET /services.html [32m200 [0m4.497 ms - 7731[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m1.229 ms - -[0m
+[0mGET /css/font-awesome.min.css [36m304 [0m3.197 ms - -[0m
+[0mGET /css/bootstrap-theme.css [36m304 [0m3.255 ms - -[0m
+[0mGET /css/style.css [36m304 [0m3.223 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/custom.js [36m304 [0m1.008 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/logo.png [36m304 [0m0.958 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg.png [36m304 [0m0.542 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m1.734 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg_header.jpg [32m200 [0m14.865 ms - 289928[0m
+2018-04-27 09:05 +08:00: [0mGET /favicon.ico [36m304 [0m2.601 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /price.html [32m200 [0m2.316 ms - 8120[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m7.400 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m7.924 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap-theme.css [36m304 [0m7.487 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/style.css [36m304 [0m4.966 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/custom.js [36m304 [0m0.849 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/logo.png [36m304 [0m1.079 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg.png [36m304 [0m0.469 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg_header.jpg [36m304 [0m0.375 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m0.384 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /favicon.ico [36m304 [0m3.417 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /cpts_824_bkr/projects.html [32m200 [0m2.937 ms - 10308[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m3.586 ms - -[0m
+[0mGET /css/font-awesome.min.css [36m304 [0m4.344 ms - -[0m
+[0mGET /css/bootstrap-theme.css [36m304 [0m4.401 ms - -[0m
+[0mGET /css/style.css [36m304 [0m3.273 ms - -[0m
+[0mGET /css/isotope.css [32m200 [0m25.508 ms - 3965[0m
+[0mGET /js/fancybox/jquery.fancybox.css [32m200 [0m29.401 ms - 4899[0m
+[0mGET /js/fancybox/jquery.fancybox.pack.js [36m304 [0m1.618 ms - -[0m
+[0mGET /js/custom.js [36m304 [0m1.216 ms - -[0m
+[0mGET /images/logo.png [36m304 [0m1.539 ms - -[0m
+[0mGET /js/jquery.cslider.js [32m200 [0m10.690 ms - 7160[0m
+2018-04-27 09:05 +08:00: [0mGET /js/jquery.isotope.min.js [32m200 [0m22.376 ms - 16033[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img1.jpg [32m200 [0m24.597 ms - 26936[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img3.jpg [32m200 [0m18.289 ms - 33856[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img4.jpg [32m200 [0m18.738 ms - 26285[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img2.jpg [32m200 [0m18.317 ms - 47628[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img5.jpg [32m200 [0m47.395 ms - 37101[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img6.jpg [32m200 [0m14.314 ms - 37901[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg.png [36m304 [0m3.206 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m2.254 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img7.jpg [32m200 [0m9.700 ms - 31105[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img8.jpg [32m200 [0m9.913 ms - 41797[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg_header.jpg [36m304 [0m1.616 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/portfolio/img9.jpg [32m200 [0m8.557 ms - 36071[0m
+2018-04-27 09:05 +08:00: [0mGET /favicon.ico [36m304 [0m2.800 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /cpts_824_bkr/index.html [32m200 [0m2.360 ms - 11181[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m4.875 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap-theme.css [36m304 [0m3.735 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/style.css [36m304 [0m2.912 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/camera.css [36m304 [0m2.747 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m6.164 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/modernizr-latest.js [36m304 [0m0.524 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/jquery.min.js [36m304 [0m0.628 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/fancybox/jquery.fancybox.pack.js [36m304 [0m2.392 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/jquery.mobile.customized.min.js [36m304 [0m0.649 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/jquery.easing.1.3.js [36m304 [0m0.354 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/camera.min.js [36m304 [0m0.475 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/bootstrap.min.js [36m304 [0m0.468 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/custom.js [36m304 [0m0.474 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/logo.png [36m304 [0m0.561 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/news2.jpg [36m304 [0m0.835 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/news3.jpg [36m304 [0m0.445 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/news4.jpg [36m304 [0m0.445 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg.png [36m304 [0m0.963 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/arrow.png [36m304 [0m1.037 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/camera-loader.gif [36m304 [0m4.785 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/camera_skins.png [36m304 [0m7.159 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/patterns/overlay1.png [36m304 [0m10.239 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/slides/img1.jpg?1524791145739 [32m200 [0m1.874 ms - 582150[0m
+2018-04-27 09:05 +08:00: [0mGET /images/slides/img2.jpg?1524791145945 [32m200 [0m1.339 ms - 300990[0m
+[0mGET /favicon.ico [36m304 [0m4.868 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /cpts_824_bkr/about.html [32m200 [0m3.009 ms - 14846[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m3.584 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m4.057 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/bootstrap-theme.css [36m304 [0m7.091 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /css/style.css [36m304 [0m10.668 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /js/custom.js [36m304 [0m2.437 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/logo.png [36m304 [0m2.548 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/photo-1.jpg [32m200 [0m44.701 ms - 38891[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg.png [36m304 [0m2.584 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /images/photo-3.jpg [32m200 [0m45.583 ms - 36154[0m
+2018-04-27 09:05 +08:00: [0mGET /images/photo-2.jpg [32m200 [0m45.562 ms - 35378[0m
+2018-04-27 09:05 +08:00: [0mGET /images/photo-4.jpg [32m200 [0m40.270 ms - 39497[0m
+2018-04-27 09:05 +08:00: [0mGET /images/about.jpg [32m200 [0m34.157 ms - 85487[0m
+2018-04-27 09:05 +08:00: [0mGET /images/bg_header.jpg [36m304 [0m2.054 ms - -[0m
+2018-04-27 09:05 +08:00: [0mGET /favicon.ico [36m304 [0m3.254 ms - -[0m
+2018-04-27 09:28 +08:00: [0mGET / [32m200 [0m26.990 ms - 53915[0m
+[0mGET /css/ionicons.min.css [33m404 [0m16.236 ms - 1189[0m
+[0mGET /css/font-awesome.min.css [32m200 [0m21.753 ms - 17780[0m
+[0mGET /css/morris/morris.css [32m200 [0m22.996 ms - 430[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [32m200 [0m23.347 ms - 727[0m
+[0mGET /css/datepicker/datepicker3.css [32m200 [0m23.604 ms - 34535[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m21.789 ms - 109518[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [32m200 [0m7.334 ms - 5077[0m
+[0mGET /css/iCheck/all.css [32m200 [0m2.894 ms - 1568[0m
+[0mGET /css/style.css [32m200 [0m2.536 ms - 16711[0m
+2018-04-27 09:28 +08:00: [0mGET /css/ionicons.min.css [33m404 [0m1.658 ms - 1189[0m
+[0mGET /css/iCheck/minimal/_all.css [32m200 [0m0.772 ms - 14474[0m
+2018-04-27 09:28 +08:00: [0mGET /css/iCheck/square/_all.css [32m200 [0m2.731 ms - 14331[0m
+2018-04-27 09:28 +08:00: [0mGET /css/iCheck/flat/_all.css [32m200 [0m1.900 ms - 12513[0m
+[0mGET /css/iCheck/line/_all.css [32m200 [0m2.525 ms - 20429[0m
+[0mGET /css/iCheck/polaris/polaris.css [32m200 [0m2.787 ms - 1431[0m
+[0mGET /css/iCheck/futurico/futurico.css [32m200 [0m0.771 ms - 1295[0m
+[0mGET /js/bootstrap.min.js [32m200 [0m7.532 ms - 27726[0m
+[0mGET /js/plugins/chart.js [32m200 [0m8.031 ms - 50201[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [32m200 [0m8.419 ms - 4942[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [32m200 [0m7.192 ms - 131024[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [32m200 [0m7.872 ms - 53167[0m
+[0mGET /js/jquery.min.js [32m200 [0m7.140 ms - 93888[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [32m200 [0m1.909 ms - 157149[0m
+[0mGET /js/Director/app.js [32m200 [0m4.634 ms - 48542[0m
+[0mGET /js/Director/dashboard.js [32m200 [0m4.550 ms - 3598[0m
+[0mGET /images/26115.jpg [32m200 [0m4.401 ms - 21908[0m
+[0mGET /images/avatar.png [32m200 [0m4.385 ms - 27738[0m
+2018-04-27 09:28 +08:00: [0mGET /images/bg.png [32m200 [0m1.216 ms - 17705[0m
+2018-04-27 09:28 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m0.817 ms - 44432[0m
+2018-04-27 09:34 +08:00: [0mGET / [32m200 [0m8.619 ms - 53915[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m6.822 ms - 109518[0m
+[0mGET /css/ionicons.min.css [32m200 [0m6.947 ms - 33977[0m
+[0mGET /css/morris/morris.css [32m200 [0m7.244 ms - 430[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [32m200 [0m7.395 ms - 727[0m
+[0mGET /css/font-awesome.min.css [32m200 [0m6.351 ms - 17780[0m
+[0mGET /css/datepicker/datepicker3.css [32m200 [0m7.518 ms - 34535[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [32m200 [0m4.302 ms - 5077[0m
+[0mGET /css/iCheck/all.css [32m200 [0m1.489 ms - 1568[0m
+[0mGET /css/style.css [32m200 [0m1.443 ms - 16711[0m
+2018-04-27 09:34 +08:00: [0mGET /js/jquery.min.js [32m200 [0m0.819 ms - 93888[0m
+2018-04-27 09:34 +08:00: [0mGET /js/jquery-ui-1.10.3.min.js [32m200 [0m0.744 ms - 131024[0m
+2018-04-27 09:34 +08:00: [0mGET /js/bootstrap.min.js [32m200 [0m0.727 ms - 27726[0m
+2018-04-27 09:34 +08:00: [0mGET /js/plugins/daterangepicker/daterangepicker.js [32m200 [0m0.676 ms - 53167[0m
+2018-04-27 09:34 +08:00: [0mGET /js/plugins/chart.js [32m200 [0m0.703 ms - 50201[0m
+2018-04-27 09:34 +08:00: [0mGET /js/plugins/iCheck/icheck.min.js [32m200 [0m0.718 ms - 4942[0m
+2018-04-27 09:34 +08:00: [0mGET /js/plugins/fullcalendar/fullcalendar.js [32m200 [0m0.873 ms - 157149[0m
+2018-04-27 09:34 +08:00: [0mGET /js/Director/app.js [32m200 [0m0.914 ms - 48542[0m
+2018-04-27 09:34 +08:00: [0mGET /js/Director/dashboard.js [32m200 [0m0.663 ms - 3598[0m
+2018-04-27 09:34 +08:00: [0mGET /images/26115.jpg [32m200 [0m0.762 ms - 21908[0m
+2018-04-27 09:34 +08:00: [0mGET /images/avatar.png [32m200 [0m0.750 ms - 27738[0m
+2018-04-27 09:34 +08:00: [0mGET /css/iCheck/minimal/_all.css [32m200 [0m5.601 ms - 14474[0m
+[0mGET /css/iCheck/square/_all.css [32m200 [0m2.774 ms - 14331[0m
+[0mGET /css/iCheck/flat/_all.css [32m200 [0m4.492 ms - 12513[0m
+[0mGET /css/iCheck/futurico/futurico.css [32m200 [0m1.426 ms - 1295[0m
+[0mGET /css/iCheck/line/_all.css [32m200 [0m5.883 ms - 20429[0m
+[0mGET /css/iCheck/polaris/polaris.css [32m200 [0m2.785 ms - 1431[0m
+2018-04-27 09:34 +08:00: [0mGET /images/bg.png [32m200 [0m2.163 ms - 17705[0m
+2018-04-27 09:34 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m2.356 ms - 44432[0m
+2018-04-27 09:37 +08:00: [0mGET / [32m200 [0m7.820 ms - 53972[0m
+2018-04-27 09:37 +08:00: [0mGET /css/font-awesome.min.css [32m200 [0m6.435 ms - 17780[0m
+2018-04-27 09:37 +08:00: [0mGET /css/morris/morris.css [32m200 [0m3.722 ms - 430[0m
+2018-04-27 09:37 +08:00: [0mGET /css/ionicons.min.css [32m200 [0m4.908 ms - 33977[0m
+2018-04-27 09:37 +08:00: [0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [32m200 [0m5.469 ms - 727[0m
+2018-04-27 09:37 +08:00: [0mGET /css/datepicker/datepicker3.css [32m200 [0m5.603 ms - 34535[0m
+2018-04-27 09:37 +08:00: [0mGET /css/bootstrap.min.css [32m200 [0m7.953 ms - 109518[0m
+2018-04-27 09:37 +08:00: [0mGET /css/daterangepicker/daterangepicker-bs3.css [32m200 [0m4.489 ms - 5077[0m
+2018-04-27 09:37 +08:00: [0mGET /css/style.css [32m200 [0m1.177 ms - 16711[0m
+2018-04-27 09:37 +08:00: [0mGET /css/iCheck/all.css [32m200 [0m42.566 ms - 1568[0m
+2018-04-27 09:37 +08:00: [0mGET /js/jquery.min.js [32m200 [0m0.748 ms - 93888[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [32m200 [0m0.726 ms - 131024[0m
+[0mGET /js/bootstrap.min.js [32m200 [0m0.730 ms - 27726[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [32m200 [0m0.905 ms - 53167[0m
+[0mGET /js/plugins/chart.js [32m200 [0m0.803 ms - 50201[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [32m200 [0m0.743 ms - 4942[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [32m200 [0m0.715 ms - 157149[0m
+[0mGET /js/Director/app.js [32m200 [0m0.732 ms - 48542[0m
+[0mGET /js/Director/dashboard.js [32m200 [0m0.713 ms - 3598[0m
+[0mGET /images/26115.jpg [32m200 [0m0.801 ms - 21908[0m
+[0mGET /images/avatar.png [32m200 [0m0.733 ms - 27738[0m
+2018-04-27 09:37 +08:00: [0mGET /css/iCheck/square/_all.css [32m200 [0m5.185 ms - 14331[0m
+[0mGET /css/iCheck/flat/_all.css [32m200 [0m4.541 ms - 12513[0m
+[0mGET /css/iCheck/minimal/_all.css [32m200 [0m5.781 ms - 14474[0m
+[0mGET /css/iCheck/polaris/polaris.css [32m200 [0m3.889 ms - 1431[0m
+[0mGET /css/iCheck/line/_all.css [32m200 [0m5.017 ms - 20429[0m
+[0mGET /css/iCheck/futurico/futurico.css [32m200 [0m4.680 ms - 1295[0m
+2018-04-27 09:37 +08:00: [0mGET /images/bg.png [32m200 [0m0.809 ms - 17705[0m
+2018-04-27 09:37 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m1.036 ms - 44432[0m
+2018-04-27 09:45 +08:00: [0mGET / [32m200 [0m6.170 ms - 53972[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m5.007 ms - 109518[0m
+[0mGET /css/font-awesome.min.css [32m200 [0m3.895 ms - 17780[0m
+[0mGET /css/morris/morris.css [32m200 [0m4.821 ms - 430[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [32m200 [0m4.920 ms - 727[0m
+[0mGET /css/datepicker/datepicker3.css [32m200 [0m4.834 ms - 34535[0m
+[0mGET /css/ionicons.min.css [32m200 [0m4.710 ms - 33977[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [32m200 [0m4.187 ms - 5077[0m
+[0mGET /css/iCheck/all.css [32m200 [0m1.606 ms - 1568[0m
+[0mGET /css/style.css [32m200 [0m1.727 ms - 16711[0m
+[0mGET /js/jquery.min.js [32m200 [0m0.808 ms - 83502[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [32m200 [0m0.720 ms - 131024[0m
+[0mGET /js/bootstrap.min.js [32m200 [0m1.940 ms - 27726[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [32m200 [0m0.765 ms - 53167[0m
+[0mGET /js/plugins/chart.js [32m200 [0m0.672 ms - 50201[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [32m200 [0m0.921 ms - 4942[0m
+2018-04-27 09:45 +08:00: [0mGET /js/plugins/fullcalendar/fullcalendar.js [32m200 [0m2.147 ms - 157149[0m
+[0mGET /js/Director/app.js [32m200 [0m0.646 ms - 48542[0m
+[0mGET /js/Director/dashboard.js [32m200 [0m0.679 ms - 3598[0m
+[0mGET /images/26115.jpg [32m200 [0m0.617 ms - 21908[0m
+[0mGET /images/avatar.png [32m200 [0m0.697 ms - 27738[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/minimal/_all.css [32m200 [0m4.817 ms - 14474[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/square/_all.css [32m200 [0m4.044 ms - 14331[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/line/_all.css [32m200 [0m3.936 ms - 20429[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/polaris/polaris.css [32m200 [0m4.136 ms - 1431[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/futurico/futurico.css [32m200 [0m4.224 ms - 1295[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/flat/_all.css [32m200 [0m4.174 ms - 12513[0m
+2018-04-27 09:45 +08:00: [0mGET /images/bg.png [32m200 [0m0.925 ms - 17705[0m
+2018-04-27 09:45 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m1.183 ms - 44432[0m
+2018-04-27 09:45 +08:00: [0mGET /css/iCheck/flat/grey@2x.png [32m200 [0m31.217 ms - 3217[0m
+2018-04-27 09:57 +08:00: [0mGET / [32m200 [0m9.315 ms - 53992[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m2.919 ms - 109518[0m
+[0mGET /css/ionicons.min.css [33m404 [0m6.160 ms - 1189[0m
+[0mGET /css/morris/morris.css [33m404 [0m6.076 ms - 1189[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m5.960 ms - 1189[0m
+[0mGET /css/datepicker/datepicker3.css [33m404 [0m6.811 ms - 1189[0m
+[0mGET /css/font-awesome.min.css [32m200 [0m11.840 ms - 17780[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m2.651 ms - 1189[0m
+[0mGET /css/iCheck/all.css [33m404 [0m3.313 ms - 1189[0m
+[0mGET /btzero_7_Director/css/style.css [33m404 [0m3.804 ms - 1189[0m
+[0mGET /css/style.css [32m200 [0m4.990 ms - 16711[0m
+2018-04-27 09:57 +08:00: [0mGET /js/jquery.min.js [32m200 [0m1.084 ms - 93888[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m1.090 ms - 1189[0m
+[0mGET /js/bootstrap.min.js [32m200 [0m1.024 ms - 27726[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m1.047 ms - 1189[0m
+[0mGET /js/plugins/chart.js [33m404 [0m1.045 ms - 1189[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m1.114 ms - 1189[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m1.665 ms - 1189[0m
+[0mGET /js/Director/app.js [33m404 [0m0.893 ms - 1189[0m
+[0mGET /js/Director/dashboard.js [33m404 [0m1.023 ms - 1189[0m
+[0mGET /images/26115.jpg [33m404 [0m1.635 ms - 1189[0m
+[0mGET /images/avatar.png [33m404 [0m1.088 ms - 1189[0m
+[0mGET /css/ionicons.min.css [33m404 [0m1.512 ms - 1189[0m
+[0mGET /css/morris/morris.css [33m404 [0m6.368 ms - 1189[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m9.836 ms - 1189[0m
+[0mGET /css/datepicker/datepicker3.css [33m404 [0m11.527 ms - 1189[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m12.531 ms - 1189[0m
+[0mGET /css/iCheck/all.css [33m404 [0m2.201 ms - 1189[0m
+[0mGET /btzero_7_Director/css/style.css [33m404 [0m2.018 ms - 1189[0m
+2018-04-27 09:57 +08:00: [0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m2.936 ms - 1189[0m
+[0mGET /images/bg.png [32m200 [0m0.724 ms - 17705[0m
+[0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m1.209 ms - 44432[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m1.154 ms - 1189[0m
+[0mGET /js/plugins/chart.js [33m404 [0m1.816 ms - 1189[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m1.283 ms - 1189[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m1.167 ms - 1189[0m
+[0mGET /js/Director/app.js [33m404 [0m1.029 ms - 1189[0m
+[0mGET /js/Director/dashboard.js [33m404 [0m0.904 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET / [32m200 [0m15.845 ms - 53992[0m
+2018-04-27 10:04 +08:00: [0mGET /css/bootstrap.min.css [32m200 [0m1.009 ms - 109518[0m
+2018-04-27 10:04 +08:00: [0mGET /css/ionicons.min.css [33m404 [0m5.970 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/morris/morris.css [33m404 [0m5.824 ms - 1189[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m5.693 ms - 1189[0m
+[0mGET /css/datepicker/datepicker3.css [33m404 [0m5.650 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/font-awesome.min.css [32m200 [0m9.237 ms - 17780[0m
+2018-04-27 10:04 +08:00: [0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m1.272 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/iCheck/all.css [33m404 [0m1.064 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /btzero_7_Director/css/style.css [33m404 [0m1.346 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/style.css [32m200 [0m2.284 ms - 16711[0m
+2018-04-27 10:04 +08:00: [0mGET /js/jquery.min.js [32m200 [0m0.726 ms - 93888[0m
+2018-04-27 10:04 +08:00: [0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m71.432 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/bootstrap.min.js [32m200 [0m0.619 ms - 27726[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m0.945 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/chart.js [33m404 [0m0.948 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m1.524 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m1.156 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/Director/app.js [33m404 [0m2.041 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/Director/dashboard.js [33m404 [0m1.152 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /images/26115.jpg [33m404 [0m23.906 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /images/avatar.png [33m404 [0m0.921 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/ionicons.min.css [33m404 [0m1.521 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/morris/morris.css [33m404 [0m2.910 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m3.869 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /css/datepicker/datepicker3.css [33m404 [0m3.924 ms - 1189[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m3.813 ms - 1189[0m
+[0mGET /css/iCheck/all.css [33m404 [0m3.662 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /btzero_7_Director/css/style.css [33m404 [0m1.376 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /images/26115.jpg [33m404 [0m0.927 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /images/avatar.png [33m404 [0m1.050 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m1.270 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /images/bg.png [32m200 [0m1.132 ms - 17705[0m
+2018-04-27 10:04 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m1.009 ms - 44432[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m1.200 ms - 1189[0m
+2018-04-27 10:04 +08:00: [0mGET /js/plugins/chart.js [33m404 [0m6.284 ms - 1189[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m1.594 ms - 1189[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m0.963 ms - 1189[0m
+[0mGET /js/Director/app.js [33m404 [0m1.116 ms - 1189[0m
+[0mGET /js/Director/dashboard.js [33m404 [0m1.095 ms - 1189[0m
+2018-04-27 10:06 +08:00: [0mGET / [32m200 [0m4.556 ms - 53992[0m
+[0mGET /css/ionicons.min.css [33m404 [0m6.382 ms - 1189[0m
+[0mGET /css/morris/morris.css [33m404 [0m6.441 ms - 1189[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m5.057 ms - 1189[0m
+[0mGET /css/datepicker/datepicker3.css [33m404 [0m4.790 ms - 1189[0m
+[0mGET /css/font-awesome.min.css [32m200 [0m12.249 ms - 17780[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m4.546 ms - 1189[0m
+[0mGET /css/bootstrap.min.css [32m200 [0m14.972 ms - 109518[0m
+[0mGET /css/iCheck/all.css [33m404 [0m3.765 ms - 1189[0m
+[0mGET /btzero_7_Director/css/style.css [33m404 [0m3.333 ms - 1189[0m
+[0mGET /css/style.css [32m200 [0m5.007 ms - 16711[0m
+[0mGET /js/jquery.min.js [32m200 [0m0.675 ms - 93888[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m0.983 ms - 1189[0m
+[0mGET /js/bootstrap.min.js [32m200 [0m0.802 ms - 27726[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m0.877 ms - 1189[0m
+[0mGET /js/plugins/chart.js [33m404 [0m0.849 ms - 1189[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m0.868 ms - 1189[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m1.775 ms - 1189[0m
+[0mGET /js/Director/app.js [33m404 [0m1.580 ms - 1189[0m
+[0mGET /js/Director/dashboard.js [33m404 [0m1.590 ms - 1189[0m
+[0mGET /images/26115.jpg [33m404 [0m1.017 ms - 1189[0m
+[0mGET /images/avatar.png [33m404 [0m0.868 ms - 1189[0m
+2018-04-27 10:06 +08:00: [0mGET /css/ionicons.min.css [33m404 [0m2.353 ms - 1189[0m
+[0mGET /css/morris/morris.css [33m404 [0m2.095 ms - 1189[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [33m404 [0m3.650 ms - 1189[0m
+[0mGET /css/datepicker/datepicker3.css [33m404 [0m5.975 ms - 1189[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [33m404 [0m4.895 ms - 1189[0m
+[0mGET /css/iCheck/all.css [33m404 [0m5.985 ms - 1189[0m
+[0mGET /btzero_7_Director/css/style.css [33m404 [0m3.055 ms - 1189[0m
+[0mGET /images/26115.jpg [33m404 [0m1.050 ms - 1189[0m
+[0mGET /images/avatar.png [33m404 [0m1.491 ms - 1189[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [33m404 [0m1.187 ms - 1189[0m
+[0mGET /images/bg.png [32m200 [0m0.695 ms - 17705[0m
+[0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [32m200 [0m0.708 ms - 44432[0m
+2018-04-27 10:06 +08:00: [0mGET /js/plugins/daterangepicker/daterangepicker.js [33m404 [0m1.065 ms - 1189[0m
+2018-04-27 10:06 +08:00: [0mGET /js/plugins/chart.js [33m404 [0m1.600 ms - 1189[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [33m404 [0m1.308 ms - 1189[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [33m404 [0m0.966 ms - 1189[0m
+[0mGET /js/Director/app.js [33m404 [0m1.124 ms - 1189[0m
+[0mGET /js/Director/dashboard.js [33m404 [0m1.009 ms - 1189[0m

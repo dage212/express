@@ -1,0 +1,45 @@
+2018-04-27 09:22 +08:00: [0mGET / [32m200 [0m27.057 ms - 53876[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m5.452 ms - -[0m
+[0mGET /css/font-awesome.min.css [36m304 [0m5.404 ms - -[0m
+[0mGET /css/ionicons.min.css [33m404 [0m11.745 ms - 1189[0m
+[0mGET /css/morris/morris.css [32m200 [0m15.331 ms - 430[0m
+[0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [32m200 [0m16.672 ms - 727[0m
+[0mGET /css/datepicker/datepicker3.css [32m200 [0m18.429 ms - 34535[0m
+[0mGET /css/style.css [36m304 [0m2.244 ms - -[0m
+[0mGET /css/daterangepicker/daterangepicker-bs3.css [32m200 [0m8.538 ms - 5077[0m
+[0mGET /css/iCheck/all.css [32m200 [0m8.678 ms - 1568[0m
+[0mGET /js/jquery.min.js [36m304 [0m0.498 ms - -[0m
+[0mGET /js/jquery-ui-1.10.3.min.js [32m200 [0m0.773 ms - 131024[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.566 ms - -[0m
+[0mGET /js/plugins/daterangepicker/daterangepicker.js [32m200 [0m0.926 ms - 53167[0m
+[0mGET /js/plugins/chart.js [32m200 [0m0.788 ms - 50201[0m
+[0mGET /js/plugins/iCheck/icheck.min.js [32m200 [0m0.759 ms - 4942[0m
+[0mGET /js/plugins/fullcalendar/fullcalendar.js [32m200 [0m0.987 ms - 157149[0m
+[0mGET /js/Director/app.js [32m200 [0m0.725 ms - 48542[0m
+[0mGET /js/Director/dashboard.js [32m200 [0m0.697 ms - 3598[0m
+[0mGET /img/26115.jpg [33m404 [0m1.523 ms - 1189[0m
+[0mGET /img/avatar.png [33m404 [0m1.257 ms - 1189[0m
+[0mGET /css/iCheck/minimal/_all.css [32m200 [0m3.567 ms - 14474[0m
+[0mGET /css/iCheck/square/_all.css [32m200 [0m4.003 ms - 14331[0m
+[0mGET /css/iCheck/line/_all.css [32m200 [0m3.830 ms - 20429[0m
+[0mGET /css/iCheck/polaris/polaris.css [32m200 [0m5.063 ms - 1431[0m
+[0mGET /css/iCheck/flat/_all.css [32m200 [0m3.967 ms - 12513[0m
+[0mGET /css/iCheck/futurico/futurico.css [32m200 [0m5.011 ms - 1295[0m
+2018-04-27 09:22 +08:00: [0mGET /images/bg.png [36m304 [0m0.460 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /fonts/fontawesome-webfont.woff?v=4.0.3 [36m304 [0m0.573 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /favicon.ico [33m404 [0m1.352 ms - 1189[0m
+2018-04-27 09:22 +08:00: [0mGET /css/bootstrap.min.css [36m304 [0m1.792 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/font-awesome.min.css [36m304 [0m1.785 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/ionicons.min.css [33m404 [0m2.629 ms - 1189[0m
+2018-04-27 09:22 +08:00: [0mGET /css/morris/morris.css [36m304 [0m2.707 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/jvectormap/jquery-jvectormap-1.2.2.css [36m304 [0m1.427 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/datepicker/datepicker3.css [36m304 [0m1.027 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/daterangepicker/daterangepicker-bs3.css [36m304 [0m1.590 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/all.css [36m304 [0m0.969 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/minimal/_all.css [36m304 [0m0.994 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/square/_all.css [36m304 [0m0.990 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/flat/_all.css [36m304 [0m0.569 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/line/_all.css [36m304 [0m1.456 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/polaris/polaris.css [36m304 [0m1.512 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/iCheck/futurico/futurico.css [36m304 [0m1.821 ms - -[0m
+2018-04-27 09:22 +08:00: [0mGET /css/style.css [36m304 [0m0.984 ms - -[0m
